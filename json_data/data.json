@@ -1,0 +1,15 @@
+{"details":{
+    "name":"John",
+     "age":"30",
+      "city":"New York"
+      },
+      "multipledata":[{
+          "name":"John",
+          "mobile":"637533"
+      },
+      {
+          "name":"John",
+          "mobile":"637533"
+      }]
+      
+}
